@@ -1,4 +1,9 @@
-h1 {
+h1,
+h2 {
   text-align: center;
   color: rgb(1, 122, 131);
+}
+img {
+  display: block;
+  margin: 0 auto;
 }
